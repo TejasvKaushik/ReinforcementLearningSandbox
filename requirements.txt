@@ -1,0 +1,7 @@
+numpy as np
+matplolib.pyplot as plt
+random
+tqdm
+deque
+gymnasium as gym
+torch
